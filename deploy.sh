@@ -1,2 +1,2 @@
-service demk stop
-service demk start
+sudo service app stop
+sudo service app start
