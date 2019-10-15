@@ -1,1 +1,2 @@
-java -jar target/jenkins-0.0.1-SNAPSHOT.jar
+sudo service demk stop
+sudo service demk start
