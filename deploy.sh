@@ -1,2 +1,2 @@
-sudo service app stop
-sudo service app start
+sudo service api stop
+sudo service api start
