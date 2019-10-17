@@ -11,5 +11,4 @@ public class HelloWorld {
 	    public String sayHello(){
 	        return "hello jenkins test1";
 	    }
-	
 }
